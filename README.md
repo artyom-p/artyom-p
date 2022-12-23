@@ -22,6 +22,13 @@ Software Developer and DevOps
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 
+<a href="https://docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="36" height="36" alt="Docker" /></a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/labs/thumb/b/ba/Kubernetes-icon-color.svg/2110px-Kubernetes-icon-color.svg.png" width="36" height="36" alt="Kubernetes" /></a>
+  
+<a href="https://www.jetbrains.com/teamcity/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/TeamCity_Icon.png" width="36" height="36" alt="Team City" /></a>
+<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" width="36" height="36" alt="Github Actions" /></a>
+<a href="https://octopus.com/" target="_blank" rel="noreferrer"><img src="https://marketplace-cdn.atlassian.com/files/83b5b159-bf92-426b-8cc0-06013dab959d?fileType=image&mode=full-fit" width="36" height="36" alt="Octopus Deploy" /></a>
+  
 <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/grafana_logo_icon_171048.png" width="36" height="36" alt="Grafana" /></a>
 <a href="https://grafana.com/oss/loki/" target="_blank" rel="noreferrer"><img src="https://grafana.com/static/img/logos/logo-loki.svg" width="36" height="36" alt="Grafana Loki" /></a>
 <a href="https://grafana.com/oss/tempo/" target="_blank" rel="noreferrer"><img src="https://grafana.com/static/assets/img/logos/grafana-tempo.svg" width="36" height="36" alt="Grafana Tempo" /></a>
