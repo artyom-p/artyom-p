@@ -33,6 +33,7 @@ Software Developer and DevOps
 <a href="https://fluxcd.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/52158677?s=280&v=4" width="36" height="36" alt="FluxCD" /></a>
 <a href="https://cert-manager.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/39950598?s=280&v=4" width="36" height="36" alt="Cert Manager" /></a>
 <a href="https://www.crossplane.io/" target="_blank" rel="noreferrer"><img src="https://cncf-branding.netlify.app/img/projects/crossplane/icon/color/crossplane-icon-color.png" width="36" height="36" alt="Crossplane" /></a>
+<a href="https://helm.sh/" target="_blank" rel="noreferrer"><img src="https://cncf-branding.netlify.app/img/projects/helm/icon/color/helm-icon-color.png" width="36" height="36" alt="Helm" /></a>
  
 <a href="https://istio.io/" target="_blank" rel="noreferrer"><img src="https://istio.io/img/logo.png" width="36" height="36" alt="Istio" /></a>
 <a href="https://dapr.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/51932459?s=200&v=4" width="36" height="36" alt="DAPR" /></a>
