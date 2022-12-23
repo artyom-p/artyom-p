@@ -37,6 +37,7 @@ Software Developer and DevOps
 <a href="https://istio.io/" target="_blank" rel="noreferrer"><img src="https://istio.io/img/logo.png" width="36" height="36" alt="Istio" /></a>
 <a href="https://dapr.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/51932459?s=200&v=4" width="36" height="36" alt="DAPR" /></a>
 <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/rabbitmq-logo-png-transparent.png" width="36" height="36" alt="RabbitMQ" /></a>
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2248/PNG/512/apache_kafka_icon_138937.png" width="36" height="36" alt="Kafka" /></a>
 <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354115/nginx.svg" width="36" height="36" alt="Nginx" /></a>
   
 <a href="https://www.jetbrains.com/teamcity/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/TeamCity_Icon.png" width="36" height="36" alt="Team City" /></a>
