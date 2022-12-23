@@ -51,7 +51,8 @@ Software Developer and DevOps
 <a href="https://grafana.com/oss/tempo/" target="_blank" rel="noreferrer"><img src="https://grafana.com/static/assets/img/logos/grafana-tempo.svg" width="36" height="36" alt="Grafana Tempo" /></a>
 <a href="https://grafana.com/oss/mimir/" target="_blank" rel="noreferrer"><img src="https://grafana.com/static/img/logos/logo-mimir.svg" width="36" height="36" alt="Grafana Mimir" /></a> 
 <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/2066px-Prometheus_software_logo.svg.png" width="36" height="36" alt="Prometheus" /></a>
-<a href=" https://opentelemetry.io/" target="_blank" rel="noreferrer"><img src="https://cncf-branding.netlify.app/img/projects/opentelemetry/icon/color/opentelemetry-icon-color.png" width="36" height="36" alt="OpenTelemetry" /></a>
+<a href="https://opentelemetry.io/" target="_blank" rel="noreferrer"><img src="https://cncf-branding.netlify.app/img/projects/opentelemetry/icon/color/opentelemetry-icon-color.png" width="36" height="36" alt="OpenTelemetry" /></a>
+<a href="https://uptimerobot.com/" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/cUrv0t00FYQ1GKLuOTvv8qjo1lSDjqZC16IOp3Fb6ijew6Br5m4o16HhDp0GBu_Bw8Y" width="36" height="36" alt="Uptime Robot" /></a>
  
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="36" height="36" alt="SqlServer" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
