@@ -22,8 +22,16 @@ Software Developer and DevOps
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" width="36" height="36" alt="AWS" /></a>
+<a href="https://scaleway.com/" target="_blank" rel="noreferrer"><img src="https://pbs.twimg.com/profile_images/1543941740016685056/mvVbPbfh_400x400.png" width="36" height="36" alt="Scaleway" /></a>
+  
 <a href="https://docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="36" height="36" alt="Docker" /></a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/labs/thumb/b/ba/Kubernetes-icon-color.svg/2110px-Kubernetes-icon-color.svg.png" width="36" height="36" alt="Kubernetes" /></a>
+<a href="https://www.rancher.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/uc3nn33akq6brhtnrozs" width="36" height="36" alt="Rancher" /></a>
+
+<a href="https://istio.io/" target="_blank" rel="noreferrer"><img src="https://istio.io/img/logo.png" width="36" height="36" alt="Istio" /></a>
+<a href="https://dapr.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/51932459?s=200&v=4" width="36" height="36" alt="DAPR" /></a>
+<a href="https://www.nginx.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354115/nginx.svg" width="36" height="36" alt="Nginx" /></a>
   
 <a href="https://www.jetbrains.com/teamcity/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/TeamCity_Icon.png" width="36" height="36" alt="Team City" /></a>
 <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" width="36" height="36" alt="Github Actions" /></a>
@@ -40,6 +48,8 @@ Software Developer and DevOps
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" width="36" height="36" alt="Blazor" /></a>
+<a href="https://grpc.io" target="_blank" rel="noreferrer"><img src="https://grpc.io/img/logos/grpc-icon-color.png" width="36" height="36" alt="gRPC" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
