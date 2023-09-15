@@ -32,8 +32,8 @@ Software Developer and DevOps
 <a href="https://www.rancher.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/uc3nn33akq6brhtnrozs" width="36" height="36" alt="Rancher" /></a>
 <a href="https://fluxcd.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/52158677?s=280&v=4" width="36" height="36" alt="FluxCD" /></a>
 <a href="https://cert-manager.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/39950598?s=280&v=4" width="36" height="36" alt="Cert Manager" /></a>
-<a href="https://www.crossplane.io/" target="_blank" rel="noreferrer"><img src="https://cncf-branding.netlify.app/img/projects/crossplane/icon/color/crossplane-icon-color.png" width="36" height="36" alt="Crossplane" /></a>
-<a href="https://helm.sh/" target="_blank" rel="noreferrer"><img src="https://cncf-branding.netlify.app/img/projects/helm/icon/color/helm-icon-color.png" width="36" height="36" alt="Helm" /></a>
+<a href="https://www.crossplane.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/45158470?s=280&v=4" width="36" height="36" alt="Crossplane" /></a>
+<a href="https://helm.sh/" target="_blank" rel="noreferrer"><img src="https://cdn-images-1.medium.com/max/480/1*ANDxSZMbvvhaxwqdI-6rPw.png" width="36" height="36" alt="Helm" /></a>
  
 <a href="https://istio.io/" target="_blank" rel="noreferrer"><img src="https://istio.io/img/logo.png" width="36" height="36" alt="Istio" /></a>
 <a href="https://dapr.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/51932459?s=200&v=4" width="36" height="36" alt="DAPR" /></a>
@@ -53,7 +53,7 @@ Software Developer and DevOps
 <a href="https://grafana.com/oss/tempo/" target="_blank" rel="noreferrer"><img src="https://grafana.com/static/assets/img/logos/grafana-tempo.svg" width="36" height="36" alt="Grafana Tempo" /></a>
 <a href="https://grafana.com/oss/mimir/" target="_blank" rel="noreferrer"><img src="https://grafana.com/static/img/logos/logo-mimir.svg" width="36" height="36" alt="Grafana Mimir" /></a> 
 <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/2066px-Prometheus_software_logo.svg.png" width="36" height="36" alt="Prometheus" /></a>
-<a href="https://opentelemetry.io/" target="_blank" rel="noreferrer"><img src="https://cncf-branding.netlify.app/img/projects/opentelemetry/icon/color/opentelemetry-icon-color.png" width="36" height="36" alt="OpenTelemetry" /></a>
+<a href="https://opentelemetry.io/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/f4c3dbba4741dc011535a2da593de7cff6519c3df358f4541113814c9c8ea4d7/68747470733a2f2f6f70656e74656c656d657472792e696f2f696d672f6c6f676f732f6f70656e74656c656d657472792d6c6f676f2d6e61762e706e67" width="36" height="36" alt="OpenTelemetry" /></a>
 <a href="https://uptimerobot.com/" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/cUrv0t00FYQ1GKLuOTvv8qjo1lSDjqZC16IOp3Fb6ijew6Br5m4o16HhDp0GBu_Bw8Y" width="36" height="36" alt="Uptime Robot" /></a>
  
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="36" height="36" alt="SqlServer" /></a>
